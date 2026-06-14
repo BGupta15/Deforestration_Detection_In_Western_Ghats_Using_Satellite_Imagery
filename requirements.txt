@@ -5,3 +5,4 @@ matplotlib
 rasterio
 tqdm
 scikit-learn
+albumentations
